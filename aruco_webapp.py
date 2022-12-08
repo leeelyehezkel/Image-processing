@@ -13,7 +13,6 @@ from skimage.color import label2rgb, rgb2gray
 import numpy as np
 import pandas as pd
 import cv2
-import imutils
 import streamlit as st
 
 DEMO_IMAGE = 'demo.png' # a demo image for the segmentation page, if none is uploaded
